@@ -90,6 +90,5 @@ class ValidatorImpl : IValidator {
             '*' -> true
             else -> false
         }
-
     }
 }
